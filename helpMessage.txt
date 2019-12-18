@@ -1,0 +1,16 @@
+Hi! I'm questionsGuy!
+I help store and recall quiz and crossword questions so you can quickly go through questions
+before interschool competitinos, right from your discord server!
+
+Here are all the commands you can run:
+
+$makeQ to start making a new question
+$question to set the value of the question
+$answer to set the value of the answer
+$type to set value of question type (usually question or answer)
+$saveQ to save the current question
+$yes to confirm to save question, when asked
+$help to ask for help
+$getQs <type> <max limit> to get Questions stored in DB. Type can be either 'quiz' or 'cross'
+and max limit needs to be a number. If you don't specify type and maxLimit, the command won't work 
+and will cause an error
